@@ -16,8 +16,3 @@ Este projeto realiza uma análise exploratória de dados (EDA) focada em salári
 - **Pandas** (Manipulação de dados)
 - **Matplotlib/Seaborn** (Visualização)
 - **Jupyter Notebook** (Análise interativa)
-
-## 🚀 Como executar
-1. Clone o repositório:
-   ```bash
-   git clone git@github.com:nathangabrielss/analise-estatistica-de-salario-em-dados.git
